@@ -1,0 +1,12 @@
+#BlueJ class context
+#Mon Sep 28 08:40:46 BRT 2026
+comment0.target=Teclado
+comment1.params=mensagem
+comment1.target=int leInt(java.lang.String)
+comment2.params=mensagem
+comment2.target=double leDouble(java.lang.String)
+comment3.params=mensagem
+comment3.target=java.lang.String leString(java.lang.String)
+comment4.params=mensagem
+comment4.target=char leChar(java.lang.String)
+numComments=5
