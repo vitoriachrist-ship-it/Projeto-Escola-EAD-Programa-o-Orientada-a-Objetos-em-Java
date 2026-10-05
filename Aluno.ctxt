@@ -1,22 +1,32 @@
 #BlueJ class context
-#Mon Sep 28 08:57:54 BRT 2026
+#Sun Oct 04 15:02:02 BRT 2026
 comment0.target=Aluno
 comment1.params=codigo nome dataNascimento email senha
 comment1.target=Aluno(int, java.lang.String, java.lang.String, java.lang.String, java.lang.String)
-comment10.target=java.lang.String getsenha()
+comment10.target=java.lang.String getSenha()
 comment11.params=senha
-comment11.target=void setsenha(java.lang.String)
-comment12.target=void exibeDados()
-comment2.target=int getcodigo()
+comment11.target=void setSenha(java.lang.String)
+comment12.params=n1 n2 n3
+comment12.target=void lancarNotas(double, double, double)
+comment13.target=double calcularMedia()
+comment14.target=void exibirNotas()
+comment15.params=valores
+comment15.target=void adicionarMensalidades(double[])
+comment16.target=void exibirMensalidades()
+comment17.params=indice
+comment17.target=void pagarMensalidade(int)
+comment18.target=Mensalidade[] getMensalidades()
+comment19.target=void exibeDados()
+comment2.target=int getCodigo()
 comment3.params=codigo
-comment3.target=void setcodigo(int)
-comment4.target=java.lang.String getnome()
+comment3.target=void setCodigo(int)
+comment4.target=java.lang.String getNome()
 comment5.params=nome
-comment5.target=void setnome(java.lang.String)
-comment6.target=java.lang.String getdataNascimento()
+comment5.target=void setNome(java.lang.String)
+comment6.target=java.lang.String getDataNascimento()
 comment7.params=dataNascimento
-comment7.target=void setdataNascimento(java.lang.String)
-comment8.target=java.lang.String getemail()
+comment7.target=void setDataNascimento(java.lang.String)
+comment8.target=java.lang.String getEmail()
 comment9.params=email
-comment9.target=void setemail(java.lang.String)
-numComments=13
+comment9.target=void setEmail(java.lang.String)
+numComments=20

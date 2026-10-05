@@ -11,27 +11,27 @@ public class Curso
         this.duracao = duracao;
     }
 
-    public int getcodigo(){
+    public int getCodigo(){
         return codigo;
     }
     
-    public void setcodigo(int codigo){
+    public void setCodigo(int codigo){
         this.codigo = codigo;
     }
     
-    public String getnome(){
+    public String getNome(){
         return nome;
     }
     
-    public void setnome(String nome){
+    public void setNome(String nome){
         this.nome = nome;
     }
     
-    public int getduracao(){
+    public int getDuracao(){
         return duracao;
     }
     
-    public void setduracao(int duracao){
+    public void setDuracao(int duracao){
         this.duracao = duracao;
     }
     
